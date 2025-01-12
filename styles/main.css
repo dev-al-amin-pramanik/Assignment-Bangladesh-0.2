@@ -601,4 +601,10 @@ hr {
   border: none;
   border-top: 1px solid rgba(14, 14, 14, 0.15);
 }
+.footer-2-title{
+    display: flex;
+    justify-content: center;
+    color: #0e0e0e;
+    background-color: white;
+}
 /* Footer End */
