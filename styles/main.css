@@ -464,6 +464,12 @@ table {
   opacity: 0 1;
   cursor: pointer;
 }
+.sec-6-tk-card:hover{
+    background-color: #09a15c;
+    color: white;
+    opacity: 0 1;
+    cursor: pointer;
+}
 .sec-6-form-main {
   display: flex;
   justify-content: center;
