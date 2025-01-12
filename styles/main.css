@@ -57,3 +57,21 @@
   justify-content: center;
   margin-top: 20px;
   }
+
+  /* Main Style Start */
+/* Pillars of bangladesh section */
+/* Sec-1 */
+.sec-1-title{
+  height: 64px;
+  width: 64px;
+}
+.sec-1-img{
+    color: white;
+}
+.ec-1-card-1-title{
+    color: rgba(14, 14, 14, 0.8);
+  font-size: 28px;
+  font-weight: 700;
+  margin-top: 24px;
+  background-color: white;
+}
