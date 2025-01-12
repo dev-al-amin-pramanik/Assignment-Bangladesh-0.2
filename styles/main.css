@@ -257,7 +257,7 @@ main .sec-3-main {
   margin-top: 32px;
 }
 main .sec-3-main-div {
-  background-image: url("./assets/quote-bg.png");
+  background-image: url("/assets/quote-bg.png");
   background-repeat: no-repeat;
   background-position: 1.8% 15%;
   width: 1440px;
